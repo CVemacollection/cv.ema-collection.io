@@ -1,2 +1,2 @@
-# cv.ema-collection.github.io
+# cv.ema-collection.io
 template
